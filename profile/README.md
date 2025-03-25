@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Public repositories and standards for our development partners. 
+
+NO customer data allowed, also NO internals.
+
 <!--
 
 **Here are some ideas to get you started:**
